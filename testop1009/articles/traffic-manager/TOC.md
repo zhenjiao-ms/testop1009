@@ -1,0 +1,32 @@
+# Overview
+## [Endpoint monitoring](traffic-manager-monitoring.md)
+## [How Traffic Manager works](traffic-manager-how-traffic-manager-works.md)
+## [Nested profiles](traffic-manager-nested-profiles.md)
+## [Pricing](https://azure.microsoft.com/pricing/details/traffic-manager/)
+## [SLA](https://azure.microsoft.com/support/legal/sla/traffic-manager/)
+## [Subscription and service limits](azure-subscription-service-limits#traffic-manager-limits.md)
+## [Supported endpoints](traffic-manager-endpoint-types.md)
+## [Traffic routing methods](traffic-manager-routing-methods.md)
+## [What is Traffic Manager?](traffic-manager-overview.md)
+# Get started
+## [Azure Resource Manager support](traffic-manager-powershell-arm.md)
+## [Add an endpoint](traffic-manager-endpoints.md)
+## [Point your Internet domain to Traffic Manager](traffic-manager-point-internet-domain.md)
+## [Create a profile](traffic-manager-manage-profiles.md)
+# How to
+## [Configure failover routing method](traffic-manager-configure-failover-load-balancing.md)
+## [Configure performance routing method](traffic-manager-configure-performance-load-balancing.md)
+## [Configure round robin routing method](traffic-manager-configure-round-robin-load-balancing.md)
+## [Test your settings](traffic-manager-testing-settings.md)
+## [Troubleshoot degraded state endpoint](traffic-manager-troubleshooting-degraded.md)
+# Technical resources
+## [APIs - Resource Manager](https://msdn.microsoft.com/en-us/library/azure/mt163667)
+## [APIs - Service Management](https://msdn.microsoft.com/en-us/library/azure/hh758255)
+## [Networking blog](https://azure.microsoft.com/blog/topics/networking/)
+## [PowerShell - Resource Manager](https://msdn.microsoft.com/en-us/library/azure/mt125941)
+## [PowerShell - Service Management](https://msdn.microsoft.com/en-us/library/azure/dn690250)
+## [Using network resources](resource-groups-networking.md)
+# Related services
+## [Application Gateway](https://azure.microsoft.com/documentation/services/application-gateway/)
+## [Azure DNS](https://azure.microsoft.com/documentation/services/dns/)
+## [Load Balancer](https://azure.microsoft.com/documentation/services/load-balancer/)

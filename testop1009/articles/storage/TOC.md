@@ -1,0 +1,76 @@
+# Overview
+## [Storage case studies](https://azure.microsoft.com/services/storage/)
+## [Try storage in 5 minutes](storage-getting-started-guide.md)
+## [Storage pricing](https://azure.microsoft.com/pricing/details/storage/)
+## [Introduction to storage](storage-introduction.md)
+## [Community support for storage](http://stackoverflow.com/questions/tagged/windows-azure-storage)
+# Get started
+## [Create a storage account](storage-create-storage-account.md)
+## [Get started with blobs](storage-dotnet-how-to-use-blobs.md)
+## [Get started with files](storage-dotnet-how-to-use-files.md)
+## [Get started with queues](storage-dotnet-how-to-use-queues.md)
+## [Get started with tables](storage-dotnet-how-to-use-tables.md)
+# Performance & availability
+## [Designing for high availability](storage-redundancy.md)
+## [Designing concurrent applications](storage-concurrency.md)
+## [Disaster recovery guidance](storage-disaster-recovery-guidance.md)
+## [Performance and scalability checklist](storage-performance-checklist.md)
+## [Storage scalability and performance targets](storage-scalability-targets.md)
+# Security
+## [Authenticate storage requests](https://msdn.microsoft.com/en-us/library/azure/dd179428)
+## [Encrypt data via the client library](storage-client-side-encryption.md)
+## [Storage security guide](storage-security-guide.md)
+## [Manage access to containers and blobs](storage-manage-access-to-resources.md)
+## [Delegate account access with SAS](storage-dotnet-shared-access-signature-part-1.md)
+## [Encrypt storage data at rest](storage-service-encryption.md)
+# Transfer data to storage
+## [Get started with AzCopy](storage-use-azcopy.md)
+## [Move data to and from storage](storage-moving-data.md)
+## [Transfer blob data with Import/Export](storage-import-export-service.md)
+# Manage storage
+## [Use Azure Automation with storage](automation-manage-storage.md)
+## [Configure a custom domain name](storage-custom-domain-name.md)
+## [Use Azure PowerShell with storage](storage-powershell-guide-full.md)
+## [Use the Azure CLI with storage](storage-azure-cli.md)
+# Develop with storage
+## [Configure connection strings](storage-configure-connection-string.md)
+## [Test with the storage emulator](storage-use-emulator.md)
+## [Azure Storage explorers](storage-explorers.md)
+## [Set and read properties and metadata](storage-properties-metadata.md)
+## [Storage samples](storage-samples.md)
+# Blob storage
+## [Blob storage concepts](https://msdn.microsoft.com/en-us/library/azure/dd179376)
+## [Hot and cool storage tiers](storage-blob-storage-tiers.md)
+## [Back up disks with incremental snapshots](storage-incremental-snapshots.md)
+## [.NET API reference](https://msdn.microsoft.com/en-us/library/azure/mt347887)
+## [Blob service REST API](https://msdn.microsoft.com/en-us/library/azure/dd135733)
+## [Community support for blobs](https://stackoverflow.com/questions/tagged/azure-storage-blobs)
+# Table storage
+## [Table storage concepts](https://msdn.microsoft.com/en-us/library/azure/dd179463)
+## [Table storage design guide](storage-table-design-guide.md)
+## [.NET API Documentation](https://msdn.microsoft.com/en-us/library/azure/mt347887)
+## [Table service REST API](https://msdn.microsoft.com/en-us/library/azure/dd179423)
+## [Support for tables](https://stackoverflow.com/questions/tagged/azure-storage-tables)
+# Queue storage
+## [Queue storage concepts](https://msdn.microsoft.com/en-us/library/azure/dd179353)
+## [.NET API Documentation](https://msdn.microsoft.com/en-us/library/azure/mt347887)
+## [Queue service REST API](https://msdn.microsoft.com/en-us/library/azure/dd179363)
+## [Community support for queues](https://stackoverflow.com/questions/tagged/azure-storage-queues)
+# File storage
+## [File storage concepts](https://msdn.microsoft.com/en-us/library/azure/dn166972)
+## [Use File storage with Linux](storage-how-to-use-files-linux.md)
+## [.NET API reference](https://msdn.microsoft.com/en-us/library/azure/mt347887)
+## [File service REST API](https://msdn.microsoft.com/en-us/library/azure/dn167006)
+# Premium storage
+## [Introduction to Premium Storage](storage-premium-storage.md)
+## [Migrating to Premium Storage](storage-migration-to-premium-storage.md)
+## [Design for Performance with Premium Storage](storage-premium-storage-performance.md)
+# Storage Explorer
+## [Get started](vs-azure-tools-storage-manage-with-storage-explorer.md)
+## [Manage blobs](vs-azure-tools-storage-explorer-blobs.md)
+# Troubleshooting
+## [Delete storage accounts, containers, or VHDs](storage-cannot-delete-storage-account-container-vhd.md)
+## [Monitor, diagnose, and troubleshoot storage](storage-monitoring-diagnosing-troubleshooting.md)
+## [Enable and view metrics in the Azure Portal](storage-enable-and-view-metrics.md)
+## [Monitor storage in the Azure Portal](storage-monitor-storage-account.md)
+## [Tutorial: Troubleshooting with Storage Analytics logs](storage-e2e-troubleshooting.md)

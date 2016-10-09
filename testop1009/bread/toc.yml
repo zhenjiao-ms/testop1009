@@ -1,0 +1,19 @@
+- name: SAP on Azure
+  href: /azure/articles/sap
+  homepage: /azure/articles/sap/index
+- name: Linux Virtual Machines
+  href: /azure/articles/virtual-machines/
+  homepage: /azure/articles/vm-landing
+- name: Storage
+  href: /azure/articles/storage/
+  homepage: /azure/articles/storage/storage-azure-cli
+  items:
+  - name: How to use Azure File Storage with Linux
+    href: /azure/articles/storage/storage-how-to-use-files-linux
+    homepage: /azure/articles/storage/storage-how-to-use-files-linux
+- name: Virtual Network
+  href: /azure/articles/virtual-network/
+  homepage: /azure/articles/virtual-network/virtual-network-overview
+- name: Guidance
+  href: /azure/articles/guidance/
+  homepage: /azure/articles/guidance/guidance-compute-single-vm-linux

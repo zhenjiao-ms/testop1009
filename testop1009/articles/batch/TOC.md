@@ -1,0 +1,38 @@
+# Overview
+## [Batch feature overview](batch-api-basics.md)
+## [Batch quotas and limits](batch-quota-limit.md)
+## [Learning path](https://azure.microsoft.com/documentation/learning-paths/batch/)
+## [Batch basics](batch-technical-overview.md)
+# Get started
+## [Create a Batch account](batch-account-create-portal.md)
+## [Batch .NET tutorial](batch-dotnet-get-started.md)
+## [Batch Python tutorial](batch-python-tutorial.md)
+# Develop
+## [Autoscale compute nodes](batch-automatic-scaling.md)
+## [Job preparation and completion tasks](batch-job-prep-release.md)
+## [Efficient list queries](batch-efficient-list-queries.md)
+## [Concurrent node tasks](batch-parallel-node-tasks.md)
+## [Application packages](batch-application-packages.md)
+## [Linux compute nodes](batch-linux-nodes.md)
+## [Manage accounts with Batch Management .NET](batch-management-dotnet.md)
+## [Run MPI jobs in Batch](batch-mpi.md)
+## [Task dependencies](batch-task-dependencies.md)
+## [Persist job and task output](batch-task-output.md)
+## [Visual Studio templates for Batch](batch-visual-studio-templates.md)
+# Samples
+## [Batch PowerShell cmdlets](batch-powershell-cmdlets-get-started.md)
+## [Batch C# samples](https://github.com/Azure/azure-batch-samples/tree/master/CSharp/)
+## [Batch Python samples](https://github.com/Azure/azure-batch-samples/tree/master/Python/Batch)
+## [Batch CLI](batch-cli-get-started.md)
+## [More samples](https://github.com/Azure/azure-batch-samples)
+# Big Compute scenarios
+## [HPC and data orchestration using Azure Batch and Data Factory](data-factory-data-processing-using-batch.md)
+## [Solution resources](big-compute-resources.md)
+## [HPC in Azure](https://azure.microsoft.com/documentation/scenarios/high-performance-computing/)
+# Reference
+## [Batch Management .NET reference](https://msdn.microsoft.com/en-us/library/azure/mt463120)
+## [Batch .NET reference](https://msdn.microsoft.com/en-us/library/azure/mt348682)
+## [Batch Node.js reference](http://azure.github.io/azure-sdk-for-node/azure-batch/latest/)
+## [Batch Python reference](http://azure-sdk-for-python.readthedocs.io/en/latest/ref/azure.batch.html)
+## [Batch REST API reference](https://msdn.microsoft.com/en-us/library/azure/dn820158)
+## [Batch PowerShell reference](https://msdn.microsoft.com/en-us/library/azure/mt125957)
