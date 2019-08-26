@@ -1,0 +1,41 @@
+# Get Started
+## [CDN overview](cdn-overview.md)
+## [Using Azure CDN](cdn-create-new-endpoint.md)
+# Integrate
+## [Cross-Origin Resource Sharing (CORS)](cdn-cors.md)
+## [Integrate with Cloud Services](cdn-cloud-service-with-cdn.md)
+## [Integrate with Storage](cdn-create-a-storage-account-with-cdn.md)
+## [Integrate with Web Apps](cdn-websites-with-cdn.md)
+# Manage
+## [Improve performance by compressing files](cdn-improve-performance.md)
+## [Cache settings for cloud services](cdn-manage-expiration-of-cloud-service-content.md)
+## [Restrict access by country](cdn-restrict-access-by-country.md)
+## [Map a custom domain to CDN](cdn-map-content-to-custom-domain.md)
+## [Pre-load cached assets](cdn-preload-endpoint.md)
+## [Manage with PowerShell](cdn-manage-powershell.md)
+## [Purge cached assets](cdn-purge-endpoint.md)
+## [Cache content by query string](cdn-query-string.md)
+## [Override behavior with rules](cdn-rules-engine.md)
+## [Cache settings for storage](cdn-manage-expiration-of-blob-content.md)
+# Analyze
+## [Analyze edge performance](cdn-edge-performance.md)
+## [Generate advanced HTTP reports](cdn-advanced-http-reports.md)
+## [View real-time statistics](cdn-real-time-stats.md)
+## [Analyze usage patterns](cdn-analyze-usage-patterns.md)
+# Develop
+## [Get started with .NET](cdn-app-dev-net.md)
+## [CDN Library for .NET Reference](https://msdn.microsoft.com/en-us/library/azure/mt657769)
+## [Get started with Node.js](cdn-app-dev-node.md)
+## [CDN SDK for Node.js Reference](http://azure.github.io/azure-sdk-for-node/azure-arm-cdn/latest/)
+## [REST API Reference](https://msdn.microsoft.com/en-us/library/azure/mt634456)
+# Troubleshoot
+## [HTTP 404 responses](cdn-troubleshoot-endpoint.md)
+## [Compression](cdn-troubleshoot-compression.md)
+# Resources
+## [HTTP/2 support](https://msdn.microsoft.com/en-us/library/azure/mt762901)
+## [Akamai Allowed Origin Ports](https://msdn.microsoft.com/en-us/library/azure/mt757337)
+## [Feedback](https://feedback.azure.com/forums/169397-cdn)
+## [CDN POP locations](cdn-pop-locations.md)
+## [Pricing](https://azure.microsoft.com/pricing/details/cdn/)
+## [Rules Engine Match Condition and Feature Details](https://msdn.microsoft.com/en-us/library/azure/mt757336)
+## [Verizon Edge Server IP Ranges](https://msdn.microsoft.com/en-us/library/azure/mt757330)
